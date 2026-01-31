@@ -56,4 +56,3 @@ Based on the project's findings, potential next steps include:
 * Deeper feature engineering and leakage checks
 * Packaging the pipeline and model into a lightweight API (like FastAPI) for deployment
 
-*This summary and project structure are based on the notebook provided.*
